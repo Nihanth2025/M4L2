@@ -1,0 +1,10 @@
+t1=("My name is")
+print(t1)
+print(len(t1))
+t2=(" Nihanth")
+t=t1+t2
+print(t)
+print("Count:",t.count("n"))
+print(t[2:4])
+print(t[2:])
+print(t[:4])
